@@ -1,0 +1,8 @@
+Dada mi formación académica y mi experiencia, me parece 
+demasiado atrevido hablar de conocimientos de programación,
+por lo que me remitiré a expresar mi interés en la 
+programación.
+
+1. En un primer momento me interesé por el programa gratuito
+que ofrece harvard: CS50 introduction to Computer Science.
+Ahí pude entender los conceptos básicos del lenguaje C 
