@@ -6,3 +6,9 @@ programación.
 1. En un primer momento me interesé por el programa gratuito
 que ofrece harvard: CS50 introduction to Computer Science.
 Ahí pude entender los conceptos básicos del lenguaje C 
+
+2. Posteriormente inicié un curso de DEsarrollo de sitios 
+y aplicaciones web qeu ofrece la UOC pero el formato 
+del curso no me convenció al no haber clases virtuales 
+y llegar a cabo un aprendizaje pseudo-autodidacta. Ahí cursé 
+la primera asignatura de JavaScript.
