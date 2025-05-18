@@ -1,0 +1,2 @@
+OBJETIVO 1: El primer objetivo que tenemos para este curso 
+de master será poder entender las bases del entorno web.
